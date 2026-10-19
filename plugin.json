@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "font-jetbrains-mono",
+  "name": "JetBrains Mono",
+  "version": "1.0.0",
+  "description": "A monospace font optimized for developers.",
+  "type": "theme-extension",
+  "entry": "font",
+  "font_family": "JetBrains Mono",
+  "min_host_api": 2,
+  "protocol_version": 1,
+  "icon": "font",
+  "payload": "font.ttf",
+  "payload_url": "https://raw.githubusercontent.com/jeanrivera/font-Jetbrains-Mono/jeanrivera-patch-1/font.ttf",
+  "payload_size": 273900,
+  "payload_sha256": "a0bf60ef0f83c5ed4d7a75d45838548b1f6873372dfac88f71804491898d138f",
+  "permissions": []
+}
